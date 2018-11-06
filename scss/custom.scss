@@ -1,1 +1,9 @@
+$primary: #133046;
+$secondary: #15959F;
+$muted: #666666;
+
+.border-10 {
+  border-bottom: 4px solid $primary;
+}
+
 @import "../node_modules/bootstrap/scss/bootstrap";
